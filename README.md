@@ -7,7 +7,6 @@
 
 - 🔭 I’m currently working on <b>Sekawan Studio</b>
 - 🌱 I’m currently learning <b>Javascript Library</b>
-- 💬 Ask me about code but fun😁
 - 📫 How to reach me: <b>fajriyan20@gmail.com</b>
 - ⚡ Fun fact: i like chocolate
 
@@ -22,7 +21,7 @@ Some stats from my github profile, for more details you can see my portfolio [�
 **fajriyan/fajriyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 💬 Ask me about code but fun😁
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
