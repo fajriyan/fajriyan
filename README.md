@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on <b>Sekawan Studio</b>
 - 🌱 I’m currently learning <b>Javascript Library</b>
-- 📫 How to reach me: <b>fajriyan20@gmail.com</b>
+- 📫 How to reach me: <b>fajriyan20@gmail.com | [Linkedin](https://www.linkedin.com/in/fajriyan/) </b>
 - ⚡ Fun fact: i like chocolate
 
 ## fajriyan github detail
