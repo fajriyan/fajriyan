@@ -16,6 +16,10 @@ Some stats from my github profile, for more details you can see my portfolio [�
 ![Top Langs Fajriyan's](https://github-readme-stats.vercel.app/api/top-langs/?username=fajriyan&layout=compact)
 ![Fajriyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajriyan)
 
+## See me elsewhere
+ | Platform | Link | 
+ | --- | --- | 
+ | ![Blog Fajriyan](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) | https://menulisapaini.blogspot.com/ |
 
 <!--
 **fajriyan/fajriyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
