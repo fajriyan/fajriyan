@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on <b>Sekawan Studio</b>
 - 🌱 I’m currently learning <b>Javascript Library</b>
 - 📫 How to reach me: <b>fajriyan20@gmail.com | [Linkedin](https://www.linkedin.com/in/fajriyan/) </b>
-- ⚡ Fun fact: i like chocolate
+- ⚡ Fun fact: I don't really like crunchy food
 
 ## fajriyan github detail
 Some stats from my github profile, for more details you can see my portfolio [📌here](https://fajriyan.pages.dev/)
