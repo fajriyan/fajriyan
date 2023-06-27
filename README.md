@@ -13,7 +13,7 @@
 ## fajriyan github detail
 Some stats from my github profile, for more details you can see my portfolio [📌here](https://fajriyan.pages.dev/)
 
-![Top Langs Fajriyan's](https://github-readme-stats.vercel.app/api/top-langs/?username=fajriyan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajriyan&hide_progress=true)
 ![Fajriyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajriyan)
 
 ## See me elsewhere
