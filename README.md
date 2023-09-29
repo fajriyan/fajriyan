@@ -5,7 +5,7 @@
 ![Fajriyan's View](https://komarev.com/ghpvc/?username=fajriyan&color=green)
 <br>
 
-- 🔭 I’m currently working on <b>Sekawan Studio</b><sup>1</sup>
+- 🔭 I’m currently working on <b>Sekawan Studio</b>
 - 🌱 I’m currently learning <b>Javascript Library</b>
 - 📫 How to reach me: <b>fajriyan20@gmail.com | [Linkedin](https://www.linkedin.com/in/fajriyan/) </b>
 - ⚡ Fun fact: I don't really like crunchy food
