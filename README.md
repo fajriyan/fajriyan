@@ -5,13 +5,11 @@
 ![Fajriyan's View](https://komarev.com/ghpvc/?username=fajriyan&color=green)
 <br>
 
-- 🔭 I’m currently working on <b>Sekawan Studio</b>
+- 🔭 I'm currently working at **Sekawan Studio** as a web developer.
 - 🌱 I’m currently learning <b>Javascript Library</b>
 - 📫 How to reach me: <b>fajriyan20@gmail.com | [Linkedin](https://www.linkedin.com/in/fajriyan/) </b>
 - ⚡ Fun fact: I don't really like crunchy food
-
-## fajriyan github detail
-Some stats from my github profile, for more details you can see my portfolio [📌here](https://fajriyan.pages.dev/)
+- 🌎 My portfolio [here](https://fajriyan.pages.dev/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajriyan&layout=compact)
 <!--![Fajriyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajriyan)-->
