@@ -17,22 +17,3 @@
  | Platform | Link | 
  | --- | --- | 
  | ![Blog Fajriyan](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) | https://menulisapaini.blogspot.com/ |
-
-<!--
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)]() 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fajriyan&layout=compact)
-![Fajriyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=fajriyan)
-**fajriyan/fajriyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-- 💬 Ask me about code but fun😁
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning <b>Javascript Library</b>
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: I don't really like crunchy food
--->
