@@ -1,5 +1,5 @@
 ![Debug](https://b1694534.smushcdn.com/1694534/wp-content/uploads/2021/06/269f3708b5e22a1481c78707bfa14a36-2.gif?lossy=1&strip=1&webp=1)<br>
-
+`me when debugging the code`
 ## Hi, I'm fajriyan 
 
 
