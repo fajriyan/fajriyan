@@ -12,8 +12,9 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fajriyan/) 
 <br>
 
-
 ## see me elsewhere
  | Platform | Link | 
  | --- | --- | 
- | ![Blog Fajriyan](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white) | https://menulisapaini.blogspot.com/ |
+ | <img src="https://github.com/user-attachments/assets/092a83de-a7ca-44c2-94bb-6118de5a3ad8" alt="blog" style="width:60px;"/> | https://menulisapaini.blogspot.com/ |
+ | <img src="https://github.com/user-attachments/assets/571b8277-98a2-41c8-bc96-6aac6175acaa" alt="stack" style="width:60px;"/> | https://stackoverflow.com/users/22432262/fajriyan |
+ | <img src="https://github.com/user-attachments/assets/687e8a5f-a5c5-451b-b72b-d9c7148f3c59" alt="toolsz" style="width:60px;"/> | https://toolsz.vercel.app/ |
