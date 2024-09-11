@@ -3,7 +3,7 @@
 ## Hi, I'm fajriyan 
 
 
-- 🔭 I'm currently working at **Sekawan Studio** as a web developer.
+- 🔭 I'm currently working at **SiteSpirit** as a web developer.
 - 📫 How to reach me: <b>fajriyan20@gmail.com</b>
 - 🌎 My portfolio [here](https://fajriyan.pages.dev/)
 
